@@ -1,0 +1,549 @@
+!Type:Security
+NMacquarie Income Opportunities Fund
+SMAQ0277AU
+TFund or Trust
+^
+!Type:Security
+NOC Premium Small Companies Fund
+SOPS0002AU
+TFund or Trust
+^
+!Type:Security
+NT. Rowe Price Dynamic Global Bond Fund
+SETL0398AU
+TFund or Trust
+^
+!Type:Security
+NT. Rowe Price Global Equity Fund
+SETL0071AU
+TFund or Trust
+^
+!Type:Security
+NVanguard International Property Securities Index Fund Hedged
+SVAN0019AU
+TFund or Trust
+^
+!Type:Security
+NVanguard Australian Fixed Interest Index
+SVAN0001AU
+TFund or Trust
+^
+!Type:Security
+NAusbil 130/30 Focus Fund
+SAAP0008AU
+TFund or Trust
+^
+!Type:Security
+NVanguard Emerging Markets Shares Index Fund
+SVAN0005AU
+TFund or Trust
+^
+!Type:Security
+NVanguard International Fixed Interest Fund (Hedged)
+SVAN0103AU
+TFund or Trust
+^
+!Type:Security
+NVanguard Australian Shares Index Fund
+SVAN0002AU
+TFund or Trust
+^
+!Type:Security
+NVanguard International Share Index Fund
+SVAN0003AU
+TFund or Trust
+^
+!Type:Security
+NAB Global Equities Fund
+SACM0009AU
+TFund or Trust
+^
+!Type:Security
+NMagellan Infrastructure Fund
+SMGE0002AU
+TFund or Trust
+^
+!Type:Security
+NMagellan Global Fund
+SMGE0001AU
+TFund or Trust
+^
+!Type:Prices
+"ACM0009AU",1.6101,"29/06/2022"
+^
+!Type:Prices
+"AAP0008AU",1.91218,"29/06/2022"
+^
+!Type:Prices
+"MAQ0277AU",0.9095,"29/06/2022"
+^
+!Type:Prices
+"MGE0001AU",2.351,"29/06/2022"
+^
+!Type:Prices
+"MGE0002AU",1.3576,"29/06/2022"
+^
+!Type:Prices
+"OPS0002AU",3.325,"29/06/2022"
+^
+!Type:Prices
+"ETL0398AU",1.0635,"29/06/2022"
+^
+!Type:Prices
+"ETL0071AU",1.4014,"29/06/2022"
+^
+!Type:Prices
+"VAN0001AU",1.0169,"30/06/2022"
+^
+!Type:Prices
+"VAN0002AU",2.26151,"30/06/2022"
+^
+!Type:Prices
+"VAN0005AU",1.988508,"30/06/2022"
+^
+!Type:Prices
+"VAN0103AU",0.962601,"30/06/2022"
+^
+!Type:Prices
+"VAN0019AU",0.739432,"30/06/2022"
+^
+!Type:Prices
+"VAN0003AU",2.494879,"30/06/2022"
+^
+!Type:Invst
+D31/05/2022
+NCash
+MInterest payment for Cash Management Account
+U0.37
+T0.37
+LInvestment:Account 1:Interest
+^
+D30/06/2022
+NCash
+MInterest payment for Cash Management Account
+U0.25
+T0.25
+LInvestment:Account 1:Interest
+^
+D03/06/2022
+NCash
+MAdministration fee for the period 02/05/2022 to 31/05/2022
+U-58.21
+T-58.21
+LInvestment Expenses:Account 1:Administration Fee
+^
+D02/05/2022
+NCash
+MDirect Debit Deposit
+U150000.0
+T150000.0
+L[Bank Account 1]
+^
+D19/05/2022
+NCash
+MDirect Debit Deposit - regular savings
+U14100.0
+T14100.0
+L[Bank Account 1]
+^
+D20/06/2022
+NCash
+MDirect Debit Deposit - regular savings
+U14100.0
+T14100.0
+L[Bank Account 1]
+^
+D31/05/2022
+NCGLong
+MDistribution 8,885.2814 Macquarie Income Opportunities Fund (MAQ0277AU) @ $0.0005
+U4.44
+T4.44
+YMacquarie Income Opportunities Fund
+^
+D10/05/2022
+NBuy
+MBuy 5,620.3164010 Magellan Global Fund (MGE0001AU) @ $2.40. Transaction fee $0.00.
+U13500.0
+T13500.0
+YMagellan Global Fund
+Q5620.316401
+O0.0
+^
+D10/05/2022
+NBuy
+MBuy 5,448.6016 Magellan Infrastructure Fund (MGE0002AU) @ $1.38. Transaction fee $0.00.
+U7500.0
+T7500.0
+YMagellan Infrastructure Fund
+Q5448.6016
+O0.0
+^
+D10/05/2022
+NBuy
+MBuy 4,796.546511 Vanguard Australian Shares Index Fund (VAN0002AU) @ $2.50. Transaction fee $0.00.
+U12000.0
+T12000.0
+YVanguard Australian Shares Index Fund
+Q4796.546511
+O0.0
+^
+D10/05/2022
+NBuy
+MBuy 3,036.7508 Ausbil 130/30 Focus Fund (AAP0008AU) @ $1.98. Transaction fee $0.00.
+U6000.0
+T6000.0
+YAusbil 130/30 Focus Fund
+Q3036.7508
+O0.0
+^
+D10/05/2022
+NBuy
+MBuy 6,055.4066 Vanguard Emerging Markets Shares Index Fund (VAN0005AU) @ $1.98. Transaction fee $0.00.
+U12000.0
+T12000.0
+YVanguard Emerging Markets Shares Index Fund
+Q6055.4066
+O0.0
+^
+D10/05/2022
+NBuy
+MBuy 12,465.060078 Vanguard International Share Index Fund (VAN0003AU) @ $2.65. Transaction fee $0.00.
+U33000.0
+T33000.0
+YVanguard International Share Index Fund
+Q12465.060078
+O0.0
+^
+D10/05/2022
+NBuy
+MBuy 5,555.8984 AB Global Equities Fund (ACM0009AU) @ $1.62. Transaction fee $0.00.
+U9000.0
+T9000.0
+YAB Global Equities Fund
+Q5555.8984
+O0.0
+^
+D10/05/2022
+NBuy
+MBuy 1,664.6783 OC Premium Small Companies Fund (OPS0002AU) @ $3.60. Transaction fee $0.00.
+U6000.0
+T6000.0
+YOC Premium Small Companies Fund
+Q1664.6783
+O0.0
+^
+D10/05/2022
+NBuy
+MBuy 9,572.4310 Vanguard International Property Securities In (VAN0019AU) @ $0.78. Transaction fee $0.00.
+U7500.0
+T7500.0
+YVanguard International Property Securities Index Fund Hedged
+Q9572.431
+O0.0
+^
+D10/05/2022
+NBuy
+MBuy 3,670.712625 Vanguard Australian Fixed Interest Index (VAN0001AU) @ $1.02. Transaction fee $0.00.
+U3750.0
+T3750.0
+YVanguard Australian Fixed Interest Index
+Q3670.712625
+O0.0
+^
+D10/05/2022
+NBuy
+MBuy 11,366.8656 T. Rowe Price Dynamic Global Bond Fund (ETL0398AU) @ $1.06. Transaction fee $0.00.
+U12000.0
+T12000.0
+YT. Rowe Price Dynamic Global Bond Fund
+Q11366.8656
+O0.0
+^
+D10/05/2022
+NBuy
+MBuy 3,812.5256 Vanguard International Fixed Interest Fund (H (VAN0103AU) @ $0.98. Transaction fee $0.00.
+U3750.0
+T3750.0
+YVanguard International Fixed Interest Fund (Hedged)
+Q3812.5256
+O0.0
+^
+D10/05/2022
+NBuy
+MBuy 9,545.3584 T. Rowe Price Global Equity Fund (ETL0071AU) @ $1.41. Transaction fee $0.00.
+U13500.0
+T13500.0
+YT. Rowe Price Global Equity Fund
+Q9545.3584
+O0.0
+^
+D11/05/2022
+NBuy
+MBuy 8,123.0369 Macquarie Income Opportunities Fund (MAQ0277AU) @ $0.92. Transaction fee $0.00.
+U7500.0
+T7500.0
+YMacquarie Income Opportunities Fund
+Q8123.0369
+O0.0
+^
+D23/05/2022
+NBuy
+MRegular Investment Buy 535.3752689 Magellan Global Fund (MGE0001AU) @ $2.37. Transaction fee $0.00.
+U1269.0
+T1269.0
+YMagellan Global Fund
+Q535.3752689
+O0.0
+^
+D23/05/2022
+NBuy
+MRegular Investment Buy 497.9868 Magellan Infrastructure Fund (MGE0002AU) @ $1.42. Transaction fee $0.00.
+U705.0
+T705.0
+YMagellan Infrastructure Fund
+Q497.9868
+O0.0
+^
+D23/05/2022
+NBuy
+MRegular Investment Buy 565.0171 Vanguard Emerging Markets Shares Index Fund (VAN0005AU) @ $2.00. Transaction fee $0.00.
+U1128.0
+T1128.0
+YVanguard Emerging Markets Shares Index Fund
+Q565.0171
+O0.0
+^
+D23/05/2022
+NBuy
+MRegular Investment Buy 1,186.051860 Vanguard International Share Index Fund (VAN0003AU) @ $2.62. Transaction fee $0.00.
+U3102.0
+T3102.0
+YVanguard International Share Index Fund
+Q1186.05186
+O0.0
+^
+D23/05/2022
+NBuy
+MRegular Investment Buy 443.117533 Vanguard Australian Shares Index Fund (VAN0002AU) @ $2.55. Transaction fee $0.00.
+U1128.0
+T1128.0
+YVanguard Australian Shares Index Fund
+Q443.117533
+O0.0
+^
+D23/05/2022
+NBuy
+MRegular Investment Buy 520.4232 AB Global Equities Fund (ACM0009AU) @ $1.63. Transaction fee $0.00.
+U846.0
+T846.0
+YAB Global Equities Fund
+Q520.4232
+O0.0
+^
+D23/05/2022
+NBuy
+MRegular Investment Buy 880.2597 Vanguard International Property Securities In (VAN0019AU) @ $0.80. Transaction fee $0.00.
+U705.0
+T705.0
+YVanguard International Property Securities Index Fund Hedged
+Q880.2597
+O0.0
+^
+D23/05/2022
+NBuy
+MRegular Investment Buy 898.4706 T. Rowe Price Global Equity Fund (ETL0071AU) @ $1.41. Transaction fee $0.00.
+U1269.0
+T1269.0
+YT. Rowe Price Global Equity Fund
+Q898.4706
+O0.0
+^
+D23/05/2022
+NBuy
+MRegular Investment Buy 340.744347 Vanguard Australian Fixed Interest Index (VAN0001AU) @ $1.03. Transaction fee $0.00.
+U352.5
+T352.5
+YVanguard Australian Fixed Interest Index
+Q340.744347
+O0.0
+^
+D23/05/2022
+NBuy
+MRegular Investment Buy 1,063.9501 T. Rowe Price Dynamic Global Bond Fund (ETL0398AU) @ $1.06. Transaction fee $0.00.
+U1128.0
+T1128.0
+YT. Rowe Price Dynamic Global Bond Fund
+Q1063.9501
+O0.0
+^
+D23/05/2022
+NBuy
+MRegular Investment Buy 281.6538 Ausbil 130/30 Focus Fund (AAP0008AU) @ $2.00. Transaction fee $0.00.
+U564.0
+T564.0
+YAusbil 130/30 Focus Fund
+Q281.6538
+O0.0
+^
+D23/05/2022
+NBuy
+MRegular Investment Buy 153.2483 OC Premium Small Companies Fund (OPS0002AU) @ $3.68. Transaction fee $0.00.
+U564.0
+T564.0
+YOC Premium Small Companies Fund
+Q153.2483
+O0.0
+^
+D23/05/2022
+NBuy
+MRegular Investment Buy 357.4325 Vanguard International Fixed Interest Fund (H (VAN0103AU) @ $0.99. Transaction fee $0.00.
+U352.5
+T352.5
+YVanguard International Fixed Interest Fund (Hedged)
+Q357.4325
+O0.0
+^
+D24/05/2022
+NBuy
+MRegular Investment Buy 762.2445 Macquarie Income Opportunities Fund (MAQ0277AU) @ $0.92. Transaction fee $0.00.
+U705.0
+T705.0
+YMacquarie Income Opportunities Fund
+Q762.2445
+O0.0
+^
+D14/06/2022
+NBuy
+MBuy 4.8588 Macquarie Income Opportunities Fund (MAQ0277AU) @ $0.91. Transaction fee $0.00.
+U4.44
+T4.44
+YMacquarie Income Opportunities Fund
+Q4.8588
+O0.0
+^
+D23/06/2022
+NBuy
+MRegular Investment Buy 546.5822456 Magellan Global Fund (MGE0001AU) @ $2.32. Transaction fee $0.00.
+U1269.0
+T1269.0
+YMagellan Global Fund
+Q546.5822456
+O0.0
+^
+D23/06/2022
+NBuy
+MRegular Investment Buy 528.6442 Magellan Infrastructure Fund (MGE0002AU) @ $1.33. Transaction fee $0.00.
+U705.0
+T705.0
+YMagellan Infrastructure Fund
+Q528.6442
+O0.0
+^
+D23/06/2022
+NBuy
+MRegular Investment Buy 537.5524 AB Global Equities Fund (ACM0009AU) @ $1.57. Transaction fee $0.00.
+U846.0
+T846.0
+YAB Global Equities Fund
+Q537.5524
+O0.0
+^
+D23/06/2022
+NBuy
+MRegular Investment Buy 1,221.644604 Vanguard International Share Index Fund (VAN0003AU) @ $2.54. Transaction fee $0.00.
+U3102.0
+T3102.0
+YVanguard International Share Index Fund
+Q1221.644604
+O0.0
+^
+D23/06/2022
+NBuy
+MRegular Investment Buy 486.395574 Vanguard Australian Shares Index Fund (VAN0002AU) @ $2.32. Transaction fee $0.00.
+U1128.0
+T1128.0
+YVanguard Australian Shares Index Fund
+Q486.395574
+O0.0
+^
+D23/06/2022
+NBuy
+MRegular Investment Buy 364.4917 Vanguard International Fixed Interest Fund (H (VAN0103AU) @ $0.97. Transaction fee $0.00.
+U352.5
+T352.5
+YVanguard International Fixed Interest Fund (Hedged)
+Q364.4917
+O0.0
+^
+D23/06/2022
+NBuy
+MRegular Investment Buy 569.1234 Vanguard Emerging Markets Shares Index Fund (VAN0005AU) @ $1.98. Transaction fee $0.00.
+U1128.0
+T1128.0
+YVanguard Emerging Markets Shares Index Fund
+Q569.1234
+O0.0
+^
+D23/06/2022
+NBuy
+MRegular Investment Buy 299.8177 Ausbil 130/30 Focus Fund (AAP0008AU) @ $1.88. Transaction fee $0.00.
+U564.0
+T564.0
+YAusbil 130/30 Focus Fund
+Q299.8177
+O0.0
+^
+D23/06/2022
+NBuy
+MRegular Investment Buy 349.875925 Vanguard Australian Fixed Interest Index (VAN0001AU) @ $1.01. Transaction fee $0.00.
+U352.5
+T352.5
+YVanguard Australian Fixed Interest Index
+Q349.875925
+O0.0
+^
+D23/06/2022
+NBuy
+MRegular Investment Buy 937.7494 Vanguard International Property Securities In (VAN0019AU) @ $0.75. Transaction fee $0.00.
+U705.0
+T705.0
+YVanguard International Property Securities Index Fund Hedged
+Q937.7494
+O0.0
+^
+D23/06/2022
+NBuy
+MRegular Investment Buy 908.5702 T. Rowe Price Global Equity Fund (ETL0071AU) @ $1.40. Transaction fee $0.00.
+U1269.0
+T1269.0
+YT. Rowe Price Global Equity Fund
+Q908.5702
+O0.0
+^
+D23/06/2022
+NBuy
+MRegular Investment Buy 1,056.8724 T. Rowe Price Dynamic Global Bond Fund (ETL0398AU) @ $1.07. Transaction fee $0.00.
+U1128.0
+T1128.0
+YT. Rowe Price Dynamic Global Bond Fund
+Q1056.8724
+O0.0
+^
+D23/06/2022
+NBuy
+MRegular Investment Buy 174.0096 OC Premium Small Companies Fund (OPS0002AU) @ $3.24. Transaction fee $0.00.
+U564.0
+T564.0
+YOC Premium Small Companies Fund
+Q174.0096
+O0.0
+^
+D24/06/2022
+NBuy
+MRegular Investment Buy 770.9130 Macquarie Income Opportunities Fund (MAQ0277AU) @ $0.91. Transaction fee $0.00.
+U705.0
+T705.0
+YMacquarie Income Opportunities Fund
+Q770.913
+O0.0
+^

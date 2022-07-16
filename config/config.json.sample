@@ -1,0 +1,19 @@
+{
+  "default": "account1",
+  "account1": {
+    "Interest": "Investment:Account 1:Interest",
+    "AdminFee": "Investment Expenses:Account 1:Administration Fee",
+    "AdviceFee": "Investment Expenses:Account 1:Advice Fee",
+    "OtherFee": "Investment Expenses:Account 1:Other Fee",
+    "Deposit": "[Bank Account 1]",
+    "Withdrawal": "[Bank Account 1]"
+  },
+  "account2": {
+    "Interest": "Investment:Account 1:BT Panorama:Interest",
+    "AdminFee": "Investment Expenses:Account 2:BT Panorama:Administration Fee",
+    "AdviceFee": "Investment Expenses:Account 2:BT Panorama:Advice Fee",
+    "OtherFee": "Investment Expenses:Account 2:BT Panorama:Other Fee",
+    "Deposit": "[Bank Account 2]",
+    "Withdrawal": "[Bank Account 2]"
+  }
+}
