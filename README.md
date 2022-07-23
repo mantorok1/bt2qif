@@ -9,7 +9,6 @@ The following prerequisites must be installed prior using this tool:
 * Python (3.9 or above recommended)
 * Git command line tools
 
-
 ## Getting started
 
 To install the tool clone this GitHub repo:
@@ -56,7 +55,6 @@ Example:
 ```
 In the above `account1` will be used as the default mappings. For `account1` any interest transactions will be mapped to the `Investment:Account 1:Interest` category. Deposits will create a transfer transaction with the `Bank Account 1` account. Note the use of square brackets when defining a transfer.
 
-
 ## Using the tool
 
 Firstly download the `transactionHistoryCsvReportV3.csv` & `portfolioValuationCsvReport.csv` files from the BT Panorama website (in the Reports section). Ensure you select the correct date range before downloading the files. When downloads are complete place the files into the `csv` folder.
@@ -72,9 +70,6 @@ When finished there should be a file created in the `qif` folder. You can now im
 * Include in Import: `Transactions` & `Security Lists`
 
 ![Personal Plus QIF Import Dialog Box](./DialogBox.png)
-
-
-
 
 ## Known Limitations
 * Importing the same QIF file twice will generate duplicate transactions. Securities and prices are not duplicated though.
