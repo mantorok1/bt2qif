@@ -27,10 +27,13 @@ class QifFormatter:
         return lines
 
     def format_investments(self, records):
+        if len(records) == 0:
+            return []
+
         lines = ["!Type:Invst"]
         for record in records:
             lines.extend([
-                f"D{record['trade_date']}",
+                f"D{record['date']}",
                 f"N{record['action']}",
                 f"M{record['memo']}",
                 f"U{record['amount']}",

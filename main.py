@@ -1,3 +1,4 @@
+import os
 from bt_repo import BtRepo
 from qif_formatter import QifFormatter
 
@@ -7,6 +8,7 @@ def convert():
 
     securities = repo.get_funds()
     prices = repo.get_fund_prices()
+
     investments = []
     investments.extend(repo.get_cash_incomes())
     investments.extend(repo.get_cash_expenses())
@@ -21,11 +23,23 @@ def convert():
     lines.extend(formatter.format_prices(prices))
     lines.extend(formatter.format_investments(investments))
 
-    write_to_qif_file(lines, repo.filename)
+    save_qif_file(lines, repo.filename)
+
+    repo.save_transactions()
 
 
-def write_to_qif_file(lines, filename):
-    with open(f"./qif/{filename}", 'w') as file:
+def save_qif_file(lines, filename):
+    filepath = os.path.join("qif", filename)
+
+    check_filepath = filepath
+    i = 0
+    while os.path.exists(check_filepath):
+        i = i + 1
+        check_filepath = "{0}_{2}{1}".format(*os.path.splitext(filepath) + (i,))
+
+    filepath = check_filepath
+
+    with open(filepath, 'w') as file:
         for line in lines:
             file.write(f"{line}\n")  
 
